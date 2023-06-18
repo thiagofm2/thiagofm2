@@ -1,9 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=30&duration=5003&pause=1000&color=79FF97&vCenter=true&width=452&lines=Welcome!;To+my+GitHub!" alt="Typing SVG" /></a>
-
-
-
-### Olá! Eu me chamo Thiago Faria Moreira👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=25&duration=5003&pause=1000&color=79FF97&vCenter=true&width=452&lines=Ol%C3%A1!+Eu+me+chamo+Thiago+Faria+Moreira;Sejam+bem-vindos+ao+meu+GitHub!" alt="Typing SVG" /></a>
 
 <!--
 **thiagofm2/thiagofm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
