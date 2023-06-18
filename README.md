@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&size=50&duration=5003&pause=1000&color=79FF97&center=true&vCenter=true&width=452&lines=Welcome!;To+my+GitHub!" alt="Typing SVG" /></a>
+
+
 ### Olá! Eu me chamo Thiago Faria Moreira👋
 
 <!--
