@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Atualmente trabalho com Front-End
-- Sou entusiasta de Data Science, e pretendo trabalhar com isso no futuro
+- Sou um desenvolvedor Full-stack!
 
 <div>
   <a href="https://tfmportfolio.com.br">
